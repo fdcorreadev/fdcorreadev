@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Fabian Correa &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" width="50px" /> 
 
-## Geo Data Scientist and Full-Stack JavaScript developer
+## Geo Data Scientist and Full-Stack JavaScript developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="20">   I am a passionate data enthusiast with a deep fascination for cartography and spatial data analysis. With a strong background in programming, particularly in Python and JavaScript, and skills in advanced tools like Google Cloud Platform (GCP), SQL, Power BI, Tableau, ArcGIS, and QGIS, I specialize in transforming complex data into valuable and actionable insights.
 
