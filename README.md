@@ -2,6 +2,8 @@
 
 ## Geo Data Scientist and Full-Stack JavaScript developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" />
 
+<img src="https://raw.githubusercontent.com/fdcorreadev/fdcorreadev/main/DISE%C3%91O%203.jpg" alt="personalIMG" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="20">   I am a passionate data enthusiast with a deep fascination for cartography and spatial data analysis. With a strong background in programming, particularly in Python and JavaScript, and skills in advanced tools like Google Cloud Platform (GCP), SQL, Power BI, Tableau, ArcGIS, and QGIS, I specialize in transforming complex data into valuable and actionable insights.
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20">   My career has led me to collaborate with various startups, where I have gained profound knowledge in software development. These experiences have enabled me to create innovative applications for the visualization, exploration, and presentation of spatial data, providing effective and engaging solutions for complex problems.
